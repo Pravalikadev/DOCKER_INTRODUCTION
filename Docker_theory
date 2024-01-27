@@ -1,0 +1,8 @@
+Y DOCKER : to over the drawbacks of :
+let's discuss with examples
+let's take an example of 3-tier architecture: 3-tier architecture means the applications which contains front-end, middleware and backend
+front-end: html, css, js, react ( web-server)
+middleware: java, python, ruby, c# ( API )
+backend: sql, Mysql, mongodb ( Database-server )
+if u want to test the application then we need a OS, if u run the entire application in a single OS then it won't work bcz of different dependencies and libraries used in that application
+then how will u test it with the libraries and dependencies ????????????
